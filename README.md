@@ -16,7 +16,7 @@ Prerequisites:
 # Step
 1.Clone the Repository
 ```
-git clone https://github.com/DucsPhaam/Fanimation.git
+git clone https://github.com/kitty1657/clone-
 cd Fanimation
 ```
 2.Configure the Database
